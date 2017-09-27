@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "金字塔", "金字塔\金字塔.vcxproj", "{DB93AACE-5EFD-49D6-8B2E-763EB60AA93B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB93AACE-5EFD-49D6-8B2E-763EB60AA93B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DB93AACE-5EFD-49D6-8B2E-763EB60AA93B}.Debug|Win32.Build.0 = Debug|Win32
+		{DB93AACE-5EFD-49D6-8B2E-763EB60AA93B}.Debug|x64.ActiveCfg = Debug|x64
+		{DB93AACE-5EFD-49D6-8B2E-763EB60AA93B}.Debug|x64.Build.0 = Debug|x64
+		{DB93AACE-5EFD-49D6-8B2E-763EB60AA93B}.Release|Win32.ActiveCfg = Release|Win32
+		{DB93AACE-5EFD-49D6-8B2E-763EB60AA93B}.Release|Win32.Build.0 = Release|Win32
+		{DB93AACE-5EFD-49D6-8B2E-763EB60AA93B}.Release|x64.ActiveCfg = Release|x64
+		{DB93AACE-5EFD-49D6-8B2E-763EB60AA93B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
